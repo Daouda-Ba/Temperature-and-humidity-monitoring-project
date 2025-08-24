@@ -13,7 +13,6 @@ Un système IoT complet pour la surveillance en temps réel de la température e
 - [Configuration](#configuration)
 - [Utilisation](#utilisation)
 - [API Endpoints](#api-endpoints)
-- [Captures d'écran](#captures-décran)
 - [Améliorations possibles](#améliorations-possibles)
 - [Dépannage](#dépannage)
 - [Contribution](#contribution)
